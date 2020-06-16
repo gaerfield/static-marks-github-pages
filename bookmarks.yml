@@ -1,4 +1,4 @@
-Collection:
+Example-Collection:
   - Bucket:
     - Link 1: https://example.com
     - Link 2:
@@ -7,3 +7,9 @@ Collection:
       - https://example.com
       - This is a text note
       - Link note: https://example.com
+
+Project-Links:
+  - static-marks: https://github.com/darekkay/static-marks
+  - static-marks github-pages template: https://gaerfield.github.io/static-marks-github-pages
+  - static-marks docker template: https://github.com/gaerfield/static-marks-docker
+
