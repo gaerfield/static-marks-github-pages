@@ -8,8 +8,8 @@ Example-Collection:
       - This is a text note
       - Link note: https://example.com
 
-Project-Links:
-  - static-marks: https://github.com/darekkay/static-marks
-  - static-marks github-pages template: https://gaerfield.github.io/static-marks-github-pages
-  - static-marks docker template: https://github.com/gaerfield/static-marks-docker
-
+Collection with Links:
+  - static-marks:
+    - static-marks repository: https://github.com/darekkay/static-marks
+    - github-pages as template-project: https://gaerfield.github.io/static-marks-github-pages
+    - docker-template as alternative: https://github.com/gaerfield/static-marks-docker
